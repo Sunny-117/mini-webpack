@@ -1,3 +1,3 @@
 const Complier = require("./lib/Compiler");
-const options = require("./webpack.config");
+const options = require("./mini-webpack.config");
 new Complier(options).run();
