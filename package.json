@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node buildEntry.js"
   },
   "keywords": [],
   "author": "",
@@ -14,5 +14,6 @@
     "@babel/parser": "^7.7.7",
     "@babel/preset-env": "^7.7.7",
     "@babel/traverse": "^7.7.4"
-  }
+  },
+  "devDependencies": {}
 }
