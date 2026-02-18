@@ -6,6 +6,10 @@ export default withMermaid(defineConfig({
   title: 'rsdown',
   description: 'A high-performance JavaScript/TypeScript code transformer powered by Rust and SWC',
 
+  head: [
+    ['link', { rel: 'icon', href: '/rsdown/logo.svg' }],
+  ],
+
   locales: {
     root: {
       label: '简体中文',

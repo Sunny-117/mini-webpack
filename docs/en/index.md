@@ -4,6 +4,9 @@ hero:
   name: rsdown
   text: High-performance Code Transformer
   tagline: Transform const and let declarations to var in JavaScript/TypeScript
+  image:
+    src: /logo.svg
+    alt: rsdown logo
   actions:
     - theme: brand
       text: Get Started

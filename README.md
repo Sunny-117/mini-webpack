@@ -1,5 +1,13 @@
 # rsdown
 
+<p align="center">
+  <img src="./docs/public/logo.svg" width="150" height="150" alt="rsdown logo">
+</p>
+
+<p align="center">
+  <b>基于 Rust 和 SWC 的高性能 JavaScript/TypeScript 代码转换器</b>
+</p>
+
 简体中文|[English](./README-en.md)
 
 [![npm 版本][npm-version-src]][npm-version-href]

@@ -1,5 +1,13 @@
 # rsdown
 
+<p align="center">
+  <img src="./docs/public/logo.svg" width="150" height="150" alt="rsdown logo">
+</p>
+
+<p align="center">
+  <b>A high-performance JavaScript/TypeScript code transformer powered by Rust and SWC</b>
+</p>
+
 English|[简体中文](./README.md)
 
 [![npm version][npm-version-src]][npm-version-href]

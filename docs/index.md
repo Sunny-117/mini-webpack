@@ -4,6 +4,9 @@ hero:
   name: rsdown
   text: 基于 Rust 和 SWC 的高性能代码转换器
   tagline: 将 JavaScript/TypeScript 代码中的 const 和 let 声明转换为 var
+  image:
+    src: /logo.svg
+    alt: rsdown logo
   actions:
     - theme: brand
       text: 开始使用
