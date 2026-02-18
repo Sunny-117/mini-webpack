@@ -59,15 +59,15 @@
     }
   },
   "devDependencies": {
-    "@antfu/ni": "^0.22.0",
-    "@antfu/utils": "^0.7.10",
-    "@napi-rs/cli": "^2.18.0",
-    "@types/node": "^20.14.11",
-    "bumpp": "^9.4.1",
-    "esno": "^4.7.0",
-    "pnpm": "^9.5.0",
-    "typescript": "^5.5.3",
-    "vite": "^5.3.4",
-    "vitest": "^2.0.3"
+    "@antfu/ni": "^28.2.0",
+    "@antfu/utils": "^9.3.0",
+    "@napi-rs/cli": "^3.5.1",
+    "@types/node": "^25.2.3",
+    "bumpp": "^10.4.1",
+    "esno": "^4.8.0",
+    "pnpm": "^10.30.0",
+    "typescript": "^5.9.3",
+    "vite": "^7.3.1",
+    "vitest": "^4.0.18"
   }
 }
